@@ -1,0 +1,16 @@
+                                      srv
+
+Serve the contents of a given directory. I like it when I'm working on one off
+HTML files.
+
+INSTALLATION
+
+* Make sure you have go setup properly.
+* Then run "go get github.com/bplaxco/srv"
+* Finally run "go install github.com/bplaxco/srv"
+
+USAGE
+
+-b=""      Bind to an address
+-f="./"    Set the folder
+-p="1337"  Set the port
